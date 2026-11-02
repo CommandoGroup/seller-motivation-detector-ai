@@ -872,8 +872,11 @@ HTML_TEMPLATE = '''
             }
         }
     </style>
+<link rel="stylesheet" href="/static/members/app.css?v=3b41747b55">
+<link rel="stylesheet" href="/static/members/look.css?v=1d44faa383">
+<link rel="stylesheet" href="/static/members/tool.css?v=3625fa0603">
 </head>
-<body>
+<body class="member-tool">
     <div class="container">
         <div class="header">
             <h1>Seller Motivation Detector AI</h1>

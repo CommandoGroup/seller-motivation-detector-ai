@@ -1,0 +1,255 @@
+{
+  "name": "seller-motivation-detector-ai",
+  "url": "https://web-production-7542e.up.railway.app/",
+  "states": [
+    {
+      "state": "before",
+      "width": 1280,
+      "problems": [
+        {
+          "cls": "tagline",
+          "text": "Powered by advanced natural language processing an",
+          "ratio": 3.55,
+          "need": 4.5,
+          "px": 15.2,
+          "fg": "rgb(168, 197, 163)",
+          "bg": "rgb(53,82,66)",
+          "disabled": true
+        },
+        {
+          "cls": "STRONG",
+          "text": "📊 Your Monthly Usage",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "0",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "/ 500",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "500",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "minutes",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "upload-btn",
+          "text": "Choose Audio File",
+          "ratio": 3.62,
+          "need": 4.5,
+          "px": 16.8,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(100,145,108)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Version:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "P",
+          "text": "1.0.0 |",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Last Updated:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "state": "before",
+      "width": 390,
+      "problems": [
+        {
+          "cls": "tagline",
+          "text": "Powered by advanced natural language processing an",
+          "ratio": 3.55,
+          "need": 4.5,
+          "px": 15.2,
+          "fg": "rgb(168, 197, 163)",
+          "bg": "rgb(53,82,66)",
+          "disabled": true
+        },
+        {
+          "cls": "STRONG",
+          "text": "📊 Your Monthly Usage",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "0",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "/ 500",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "500",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "minutes",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "upload-btn",
+          "text": "Choose Audio File",
+          "ratio": 3.62,
+          "need": 4.5,
+          "px": 16.8,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(100,145,108)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Version:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "P",
+          "text": "1.0.0 |",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Last Updated:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "state": "after",
+      "width": 1280,
+      "problems": [],
+      "overflow": false
+    },
+    {
+      "state": "after",
+      "width": 390,
+      "problems": [],
+      "overflow": false
+    },
+    {
+      "state": "results",
+      "width": 1280,
+      "problems": [],
+      "overflow": false
+    },
+    {
+      "state": "results",
+      "width": 390,
+      "problems": [],
+      "overflow": false
+    }
+  ],
+  "actions": [
+    {
+      "action": "transcript",
+      "status": 200
+    },
+    {
+      "action": "pdf",
+      "signature": "%PDF-",
+      "bytes": 3736
+    }
+  ]
+}

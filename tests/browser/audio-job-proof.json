@@ -1,0 +1,7 @@
+{
+  "positive_exit": 0,
+  "negative_exit": 1,
+  "negative": "isolate job storage by worker process",
+  "restored_byte_identical": true,
+  "source_sha256": "18b44ab69b7454c936f121d49f49da538e672f4c99ae794ee56e07c2dd3f14d3"
+}

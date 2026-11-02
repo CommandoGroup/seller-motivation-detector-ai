@@ -1,0 +1,10 @@
+{
+  "upload": {
+    "step": "upload",
+    "http": 202,
+    "status": "processing"
+  },
+  "polls": 40,
+  "notFound": 22,
+  "completed": 16
+}

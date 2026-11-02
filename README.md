@@ -429,3 +429,16 @@ This tool gives you a **competitive advantage** by:
 ---
 
 **Powered by advanced AI and psychological pattern recognition**
+
+
+## Members interface
+
+Audio job status is shared across the Gunicorn workers in `uploads/audio-jobs.sqlite3`. `AUDIO_JOB_DB` can select another writable path on the same instance. Startup creates its table and index automatically; no provider setting or key changes. Job creation removes records older than 24 hours. Preserve this path across worker restarts if in-progress job status must survive them. Multiple instances require a shared storage location; this local store is for workers on one instance.
+
+After installing the existing requirements, `python tools/proof_jobs.py report.json` runs the real audio-worker/Flask-consumer integration, cross-process visibility, partial updates and cleanup. It then deliberately separates storage by process, requires the focused cross-process test to fail and restores the source byte-identically. The integration substitutes the provider boundary and makes no paid AI request.
+
+The existing forms, strategy calculations, AI calls and exports are unchanged. The interface loads bundled members styles from `static/members/`: the members app stylesheet, the business look and `tool.css` for this tool's existing layout. The stylesheet query suffixes are the first 10 characters of each file's SHA-256; refresh them whenever the file changes. The bundle is served locally by Flask, so rendering adds no request to another service.
+
+Check the initial form and results at 1280 and 390 pixels, keyboard focus and reduced motion. Exercise the existing action and PDF buttons against the running app. The deal analyzer also checks each of its 4 strategies. Theme changes do not change environment settings, usage limits or provider credentials.
+
+This repository is connected to Railway production. Updating its deployed branch is a live release; prepare and verify the change before that trigger.
