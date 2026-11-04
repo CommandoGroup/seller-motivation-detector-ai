@@ -1,0 +1,231 @@
+{
+  "source_sha256": "d06d04b7965a1b93088da83c9709a09e1e09f8c942feb958d5746da94c20ed32",
+  "styles": {
+    "app": "823f1ba5f234dc51003c725b4d24cd2f3b2996a3ea84d0f3a8d53db0b359f25a",
+    "look": "658662bc7ea42e50ed8d942673e99908cef6ad74b73855e6db097832632f9b39",
+    "tool": "9ff8a978c57339294ee139a2338aa8c59a5c234322937fc928510da2f0f84eee"
+  },
+  "widths": [
+    {
+      "width": 1280,
+      "contrast": [
+        {
+          "cls": "tagline",
+          "text": "Powered by advanced natural language processing an",
+          "ratio": 3.55,
+          "need": 4.5,
+          "px": 15.2,
+          "fg": "rgb(168, 197, 163)",
+          "bg": "rgb(53,82,66)",
+          "disabled": true
+        },
+        {
+          "cls": "STRONG",
+          "text": "📊 Your Monthly Usage",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "0",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "/ 500",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "500",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "minutes",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "upload-btn",
+          "text": "Choose Audio File",
+          "ratio": 3.62,
+          "need": 4.5,
+          "px": 16.8,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(100,145,108)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Version:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "P",
+          "text": "1.0.0 |",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Last Updated:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        }
+      ],
+      "focus": [],
+      "overflow": false,
+      "motion": 4,
+      "background": "rgb(242, 241, 234)",
+      "expectedBackground": "#f2f1ea"
+    },
+    {
+      "width": 390,
+      "contrast": [
+        {
+          "cls": "tagline",
+          "text": "Powered by advanced natural language processing an",
+          "ratio": 3.55,
+          "need": 4.5,
+          "px": 15.2,
+          "fg": "rgb(168, 197, 163)",
+          "bg": "rgb(53,82,66)",
+          "disabled": true
+        },
+        {
+          "cls": "STRONG",
+          "text": "📊 Your Monthly Usage",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "0",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "/ 500",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "500",
+          "ratio": 4.17,
+          "need": 4.5,
+          "px": 17.6,
+          "fg": "rgb(46, 125, 50)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "SPAN",
+          "text": "minutes",
+          "ratio": 2.98,
+          "need": 4.5,
+          "px": 14.4,
+          "fg": "rgb(122, 138, 122)",
+          "bg": "rgb(216,238,217)",
+          "disabled": false
+        },
+        {
+          "cls": "upload-btn",
+          "text": "Choose Audio File",
+          "ratio": 3.62,
+          "need": 4.5,
+          "px": 16.8,
+          "fg": "rgb(255, 255, 255)",
+          "bg": "rgb(100,145,108)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Version:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "P",
+          "text": "1.0.0 |",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        },
+        {
+          "cls": "STRONG",
+          "text": "Last Updated:",
+          "ratio": 3.36,
+          "need": 4.5,
+          "px": 11,
+          "fg": "rgb(136, 136, 136)",
+          "bg": "rgb(248,249,250)",
+          "disabled": false
+        }
+      ],
+      "focus": [],
+      "overflow": false,
+      "motion": 4,
+      "background": "rgb(242, 241, 234)",
+      "expectedBackground": "#f2f1ea"
+    }
+  ],
+  "passed": false
+}
